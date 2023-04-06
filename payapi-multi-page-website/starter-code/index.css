@@ -25,10 +25,7 @@ body {
   color: #6c8294;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
   font-family: 'Roboto', sans-serif;
   color: #36536b;
 }
@@ -97,17 +94,17 @@ li {
 li a {
   text-decoration: none;
   margin-left: 70px;
-  color: var(--light-san-juan-blue);
+  color: #6c8294;
 }
 
 a:hover {
-  color: var(--san-juan-blue);
+  color: #36536b;
 }
 
 .schedule-button {
   margin-left: auto;
   border: none;
-  background-color: var(--dark-pink);
+  background-color: #ba4270;
   font-size: 15px;
   color: #EDF3F8;
   height: 48px;
