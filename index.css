@@ -54,7 +54,7 @@ hr {
 }
 
 header{
-  background-image: url("/payapi-multi-page-website/starter-code/assets/shared/desktop/bg-pattern-circle.svg");
+  background-image: url("/shared/desktop/bg-pattern-circle.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 450px) -150px ;
   padding-top: 40px;
@@ -167,7 +167,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url("/payapi-multi-page-website/starter-code/assets/shared/desktop/bg-pattern-circle.svg");
+  background-image: url("/shared/desktop/bg-pattern-circle.svg");
   background-repeat: no-repeat;
   background-position: calc(50% - 550px) -350px;
 }
@@ -225,7 +225,7 @@ g {
 }
 
 main {
-  background-image: url("/payapi-multi-page-website/starter-code/assets/shared/desktop/bg-pattern-circle.svg");
+  background-image: url("/shared/desktop/bg-pattern-circle.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 700px) ;
 }
@@ -296,7 +296,7 @@ footer {
   background-color: #1B262F;
   height: 100px;
   align-items: center;
-  background-image: url("/payapi-multi-page-website/starter-code/assets/shared/desktop/bg-pattern-circle.svg");
+  background-image: url("/shared/desktop/bg-pattern-circle.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 700px) 20% ;
 }
@@ -493,7 +493,7 @@ footer a:hover {
   .menu-button {
       width: 30px;
       height: 30px;
-      background-image: url("/payapi-multi-page-website/starter-code/assets/shared/mobile/menu.svg");
+      background-image: url("/shared/mobile/menu.svg");
       background-repeat: no-repeat;
       position: absolute;
       right: 24px;
@@ -504,7 +504,7 @@ footer a:hover {
   header .menu {
       position: fixed;
       background-color: rgb(27, 38, 47);
-      background-image: url("/payapi-multi-page-website/starter-code/assets/shared/desktop/bg-pattern-circle.svg");
+      background-image: url("/shared/desktop/bg-pattern-circle.svg");
       background-repeat: no-repeat;
       background-position: center -73.5vh;
       top: 0;

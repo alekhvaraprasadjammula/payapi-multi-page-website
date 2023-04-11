@@ -1,6 +1,6 @@
 body {
     background-color: #EDF3F8;
-    background-image: url("./assets/shared/desktop/bg-pattern-circle.svg");
+    background-image: url("/shared/desktop/bg-pattern-circle.svg");
     background-repeat: no-repeat;
     background-position: calc(50% + 500px) -600px;
 }
@@ -94,7 +94,7 @@ main {
     }
 
     .about-img {
-        content: url("./assets/about/mobile/image-team-members.jpg");
+        content: url("/about/mobile/image-team-members.jpg");
     }
 
     .about-item {

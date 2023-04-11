@@ -1,6 +1,6 @@
 body {
   background-color: #EDF3F8;
-  background-image: url("./assets/shared/desktop/bg-pattern-circle.svg");
+  background-image: url("/shared/desktop/bg-pattern-circle.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 450px) -180%;
 }
